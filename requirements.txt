@@ -1,0 +1,12 @@
+cupy
+matplotlib
+mxnet-cu112
+numba
+scipy
+h5py
+colorama
+opencv_python
+Cython
+numpy
+tqdm
+Pillow
